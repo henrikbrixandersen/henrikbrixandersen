@@ -1,4 +1,4 @@
-# Hi there, I'm Henrik Brix Andersen 👋🏻
+# Hi there, I'm Brix 👋🏻
 
 I'm an embedded software/firmware engineer and a passionate open source developer. I started working on various open source projects back in the late 1990s and have not stopped since. I am mostly committed to writing low-level, hardware-near device drivers and communication protocols.
 
