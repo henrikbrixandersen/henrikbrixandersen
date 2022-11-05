@@ -6,4 +6,5 @@ Over the years I have been working on various, in-house embedded Linux and FreeB
 
 ## Find me online 🌍
 - 👉🏻 Follow me on [Twitter](https://twitter.com/brixmeister)
+- 🐘 Find me on [Mastodon](https://fosstodon.org/@brixmeister)
 - 📄 Find my CV on [LinkedIn](https://www.linkedin.com/in/henrikbrixandersen/)
