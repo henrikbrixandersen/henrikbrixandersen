@@ -5,6 +5,5 @@ I'm an embedded software/firmware engineer and a passionate open source develope
 Over the years I have been working on various, in-house embedded Linux and FreeBSD BSPs but lately my work (and my spare time) has shifted to working on the [Zephyr Project](https://www.zephyrproject.org) 🪁, a small real-time operating system (RTOS) for connected, resource-constrained embedded devices.
 
 ## Find me online 🌍
-- 👉🏻 Follow me on [Twitter](https://twitter.com/brixmeister)
 - 🐘 Find me on [Mastodon](https://fosstodon.org/@brixmeister)
 - 📄 Find my CV on [LinkedIn](https://www.linkedin.com/in/henrikbrixandersen/)
